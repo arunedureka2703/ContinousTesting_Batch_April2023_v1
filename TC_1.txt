@@ -7,3 +7,6 @@ Step 4: Login Successfully
 Step 5: Enter invalid username
 Step 6: Enter invalid password
 Step 7: User unable to login
+Step 8: Enter blank value
+Step 9: Click ok
+Step 8: End of test case
