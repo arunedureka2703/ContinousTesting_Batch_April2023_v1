@@ -3,3 +3,7 @@ Step 1: Enter username
 Step 2: Enter password
 Step 3: Click on Login Button
 Step 4: Login Successfully
+
+Step 5: Enter invalid username
+Step 6: Enter invalid password
+Step 7: User unable to login
