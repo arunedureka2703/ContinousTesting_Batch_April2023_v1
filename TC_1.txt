@@ -1,0 +1,5 @@
+Test case to perform login activity for an ecommerce website
+Step 1: Enter username
+Step 2: Enter password
+Step 3: Click on Login Button
+Step 4: Login Successfully
